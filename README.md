@@ -2,11 +2,17 @@
 # Data Engineering YouTube Analysis Project 
 ## Introduction
 This project aims to securely manage, streamline, and perform analysis on the structured and semi-structured YouTube videos data based on the video categories and the trending metrics.
+
+## Dataset Used
+This Kaggle dataset offers a treasure trove of YouTube video statistics. It covers various regions and provides detailed information for each video, including title, channel, publication time, views, likes, dislikes, comments, and category. This data is invaluable for analyzing trends, understanding viewer behavior, and optimizing content strategies.
+https://www.kaggle.com/datasets/datasnaek/youtube-new
+
 ## Architecture
 ![Project Architecture](architecture.jpeg)
 ## Technology Used
 1. Programming Language - Python
 2. AWS Cloud Platform
+   
 ## Project Goals
 This project aims to establish a robust data engineering pipeline on AWS to analyze YouTube data effectively. Key objectives include:
 
