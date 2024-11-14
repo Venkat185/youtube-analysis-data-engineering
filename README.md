@@ -39,7 +39,6 @@ This project aims to establish a robust data engineering pipeline on AWS to anal
   
 * AWS Athena: A serverless query service that will analyze our data directly in S3, without the need for data warehousing.
 
-## Dashboard
-![Project Dashboard]("yt_analysis_dashboard.jpg")
+
 
    
