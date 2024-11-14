@@ -16,9 +16,9 @@ This project aims to establish a robust data engineering pipeline on AWS to anal
    
 3. Scalable Data Architecture: Design a scalable data architecture that can accommodate increasing data volumes and processing demands.
    
- 4.Interactive Data Analysis: Utilize AWS Athena to query the data lake and gain valuable 
- insights, enabling data-driven decision-making.
+4. Interactive Data Analysis: Utilize AWS Athena to query the data lake and gain valuable 
+   insights, enabling data-driven decision-making.
 
- 5.Visual Data Exploration: Create interactive dashboards using Amazon QuickSight to visualize 
- key metrics, trends, and patterns in the YouTube data.
+5. Visual Data Exploration: Create interactive dashboards using Amazon QuickSight to visualize 
+   key metrics, trends, and patterns in the YouTube data.
    
