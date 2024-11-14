@@ -5,3 +5,6 @@ This project aims to securely manage, streamline, and perform analysis on the st
 ## Architecture
 ![Project Architecture](architecture.jpeg)
 ## Technology Used
+1. Programming Language - Python
+2. AWS Cloud Platform
+   
