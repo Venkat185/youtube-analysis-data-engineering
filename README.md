@@ -38,4 +38,7 @@ This project aims to establish a robust data engineering pipeline on AWS to anal
 * AWS Lambda: A serverless computing service that will execute data processing tasks and trigger other AWS services.
   
 * AWS Athena: A serverless query service that will analyze our data directly in S3, without the need for data warehousing.
+
+##Dashboard
+yt_analysis_dashboard.pdf
    
