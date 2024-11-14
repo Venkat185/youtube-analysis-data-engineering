@@ -24,8 +24,12 @@ This project aims to establish a robust data engineering pipeline on AWS to anal
 ## Key AWS Services for the Project
 * Amazon S3: A highly scalable object storage service that will store our raw and processed YouTube data.
 * AWS IAM: A security service that will control access to our AWS resources, ensuring data privacy and security.
-Amazon QuickSight: A powerful business intelligence tool that will visualize our data insights through interactive dashboards.
-AWS Glue: A serverless ETL service that will extract, transform, and load our data from various sources into S3.
-AWS Lambda: A serverless computing service that will execute data processing tasks and trigger other AWS services.
-AWS Athena: A serverless query service that will analyze our data directly in S3, without the need for data warehousing.
+  
+* Amazon QuickSight: A powerful business intelligence tool that will visualize our data insights through interactive dashboards.
+  
+* AWS Glue: A serverless ETL service that will extract, transform, and load our data from various sources into S3.
+  
+* AWS Lambda: A serverless computing service that will execute data processing tasks and trigger other AWS services.
+  
+* AWS Athena: A serverless query service that will analyze our data directly in S3, without the need for data warehousing.
    
